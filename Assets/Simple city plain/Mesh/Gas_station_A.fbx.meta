@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 5bb97b332176ae0499af0f666e4f5828
+timeCreated: 1517417420
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 0Empty
+    100004: Cube
+    100006: GasBomb
+    100008: GasBomb.001
+    100010: GasBomb.002
+    100012: GasBomb.003
+    100014: GasBomb.004
+    100016: GasBomb.005
+    100018: Hemi
+    100020: Hemi.001
+    100022: Pillar
+    100024: Pillar.001
+    100026: Pillar.002
+    100028: Pillar.003
+    100030: AirPump
+    100032: Door
+    100034: Glasses
+    100036: Roof
+    100038: Support
+    400000: //RootNode
+    400002: 0Empty
+    400004: Cube
+    400006: GasBomb
+    400008: GasBomb.001
+    400010: GasBomb.002
+    400012: GasBomb.003
+    400014: GasBomb.004
+    400016: GasBomb.005
+    400018: Hemi
+    400020: Hemi.001
+    400022: Pillar
+    400024: Pillar.001
+    400026: Pillar.002
+    400028: Pillar.003
+    400030: AirPump
+    400032: Door
+    400034: Glasses
+    400036: Roof
+    400038: Support
+    2300000: //RootNode
+    2300002: Cube
+    2300004: GasBomb
+    2300006: GasBomb.001
+    2300008: GasBomb.002
+    2300010: GasBomb.003
+    2300012: GasBomb.004
+    2300014: GasBomb.005
+    2300016: Pillar
+    2300018: Pillar.001
+    2300020: Pillar.002
+    2300022: Pillar.003
+    2300024: AirPump
+    2300026: Door
+    2300028: Glasses
+    2300030: Roof
+    2300032: Support
+    3300000: //RootNode
+    3300002: Cube
+    3300004: GasBomb
+    3300006: GasBomb.001
+    3300008: GasBomb.002
+    3300010: GasBomb.003
+    3300012: GasBomb.004
+    3300014: GasBomb.005
+    3300016: Pillar
+    3300018: Pillar.001
+    3300020: Pillar.002
+    3300022: Pillar.003
+    3300024: AirPump
+    3300026: Door
+    3300028: Glasses
+    3300030: Roof
+    3300032: Support
+    4300000: Cube
+    4300002: Pillar.003
+    4300004: Pillar.002
+    4300006: Pillar.001
+    4300008: Pillar
+    4300010: GasBomb.005
+    4300012: GasBomb.004
+    4300014: GasBomb.003
+    4300016: GasBomb.002
+    4300018: GasBomb.001
+    4300020: GasBomb
+    4300022: Support
+    4300024: Roof
+    4300026: Glasses
+    4300028: Door
+    4300030: AirPump
+    10800000: Hemi
+    10800002: Hemi.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_01
+    second: {fileID: 2100000, guid: 5521c81e7aaadf54fb01b96d0fe7ffc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_02
+    second: {fileID: 2100000, guid: c4bc6168a445c4d44bbe2d5c281eca62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_03
+    second: {fileID: 2100000, guid: 23655e97bff9be74d88216c418d1e169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Facade
+    second: {fileID: 2100000, guid: 7804666086be41447925b64085279b2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 6aaa2dafdea47384f8bc17fd49799893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 184d4de0e8654eb45bf4a16fa3b4991d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_02
+    second: {fileID: 2100000, guid: cf0ae3058d0c9ad4cb8a6b395fd0eafd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pole
+    second: {fileID: 2100000, guid: 9d81e6747a6094644b56ba32d481f01c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_01
+    second: {fileID: 2100000, guid: f146e27330781a94cb3ac381eaea5fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_02
+    second: {fileID: 2100000, guid: b1a4129e3c8e5f04f9e3867aec0b7b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_03
+    second: {fileID: 2100000, guid: 53e0f74980d46994a82c677fc2c85c28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_04
+    second: {fileID: 2100000, guid: 2b8a158e4c0657148b05368cd8c12aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_01
+    second: {fileID: 2100000, guid: 6ad3fcb67e2672e46a7aaa308bbb77cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_02
+    second: {fileID: 2100000, guid: 74754c7a440ec4d468674a3506fa6ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture
+    second: {fileID: 2100000, guid: 7433e90203a489e4e97ea2305c60e425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows
+    second: {fileID: 2100000, guid: aee8c6478b01931478fabb3ded977c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_frames
+    second: {fileID: 2100000, guid: 9ff6803aed8b95747aae75c356d0b64f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

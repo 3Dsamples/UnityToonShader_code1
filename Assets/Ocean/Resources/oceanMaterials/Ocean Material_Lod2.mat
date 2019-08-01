@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Ocean Material_Lod2
+  m_Shader: {fileID: 4800000, guid: e45d174648333f649bff771a1974d5bd, type: 3}
+  m_ShaderKeywords: DCON FOGON _EMISSION _FRESNEL _FRESNEL_ON _GLOSSYREFLECTIONS_ON
+    _PLANARREFLECTION_ON _SPECULARHIGHLIGHTS_ON
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 2521
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _WaterTexture1:
+        m_Texture: {fileID: 2800000, guid: 66ce610a780c4184f883fa7ca24f385d, type: 3}
+        m_Scale: {x: 100, y: 100}
+        m_Offset: {x: 0, y: 0}
+    - _WaterTexture2:
+        m_Texture: {fileID: 2800000, guid: 9fce8e01208f69a49b5bde0f46c884c5, type: 3}
+        m_Scale: {x: 50, y: 50}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _WaterColor1: {r: 0, g: 0.5745438, b: 0.8088235, a: 1}
+    - _WaterColor2: {r: 0.08823532, g: 0.73590285, b: 1, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6
